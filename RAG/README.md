@@ -11,7 +11,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system for queryi
 ## Setup
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/greatwall2704/CS336_IR
 cd RAG
 
 # Install dependencies
